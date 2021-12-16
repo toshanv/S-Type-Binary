@@ -15,7 +15,7 @@ We were able to successfully model the Three Body Problem and create S-Type bina
 Our Three Body model is also sufficient to replicate other physical scenarios involving three objects at these masses. We explore changing initial conditions in `Variations`. We are able to create these additional models without needing to change the set up of differential equations. The only thing we need to vary to receive these different results is our initial conditions.
 
 <p align="center">
-    <img src="https://github.com/toshanv/S-Type-Binary/blob/master/images/variation1.gif" alt>
+    <img src="https://github.com/toshanv/S-Type-Binary/blob/master/images/basesimulation.gif" alt>
 </p>
 <p align="center">
     <em>Figure 1: Here the blue line represents the orbital path of our 1 solar mass star. The orange line represents the orbital path of our 2 solar mass. The green line represents the orbital path of our planet-like 0.01 $M_{\odot}$ object. Our S-type is nearly perfect with the orbit remaining stable for many periods. Our the planetary orbit also starts and ends at nearly the same point at the end of every period. As shown in Figure \ref{fig:engcons}, this model also accurately produces energy conservation which implies a connection to physical reality.</em>
